@@ -6,7 +6,7 @@ An interactive and fully dynamic Excel Dashboard built for 2024-25 sales data â€
 
 ## ðŸ“Œ Dashboard Preview
 
-![Data Intelligence Dashboard](screenshots/intelligence_dashboard.png)
+![Data Intelligence Dashboard](screenshots/Intelligence_dashboard.png)
 
 ---
 
